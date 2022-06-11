@@ -6,6 +6,6 @@ a = input('Please input a string containing words separated with space :')
 b = a.split()
 print(b)
 
-for count,values in enumerate(b,start=1):
+for count,values in enumerate(b,start=1): # нумерация начнется с 1
     print(count,values[:10])
 
