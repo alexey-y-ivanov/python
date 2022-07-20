@@ -1,0 +1,10 @@
+Tom 25000
+Anna 15000
+John 37000
+Max 21000
+William 28000
+Jack 44000
+Kate 50000
+Kenneth 34000
+Lisa 60000
+Harry 12000

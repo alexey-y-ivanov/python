@@ -1,0 +1,3 @@
+company_1 LLC 10000 5000
+company_2 LLC 20000 10000
+company_3 LLC 30000 470000
